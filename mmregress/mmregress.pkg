@@ -1,4 +1,12 @@
-D 'DEA': Data envelopment analysis
+D 'mmregress': MM-robust regression Use mmregress With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F mcd.ado
+F mcd.sthlp
+F mmregress.ado
+F mmregress.sthlp
+F mregress.ado
+F mregress.sthlp
+F msregress.ado
+F msregress.sthlp
+F sregress.ado
+F sregress.sthlp
